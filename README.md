@@ -1,2 +1,3 @@
 # vrmod
- Virtual Reality Mod by Catse for Garrys Mod
+
+Virtual Reality Mod by Catse for Garrys Mod
