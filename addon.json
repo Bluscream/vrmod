@@ -1,8 +1,5 @@
 {
-	"title": "VRMod 3rd-person Camera",
-	"type": "entity",
-	"tags": [
-		"scenic",
-		"movie"
-	]
+  "title": "VRMod 3rd-person Camera",
+  "type": "entity",
+  "tags": ["scenic", "movie"]
 }
